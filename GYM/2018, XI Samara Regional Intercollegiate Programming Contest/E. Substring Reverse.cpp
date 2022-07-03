@@ -14,6 +14,7 @@ using namespace std;
 #define all(v) ((v).begin()),((v).end())
 #define rall(v) ((v).rbegin()),((v).rend())
 #define ll long long
+#define int ll
 #define sz(s) (int)(s.size())
 
 void solve() {

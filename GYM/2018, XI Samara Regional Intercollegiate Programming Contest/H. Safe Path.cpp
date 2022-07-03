@@ -14,6 +14,7 @@ using namespace std;
 #define all(v) ((v).begin()),((v).end())
 #define rall(v) ((v).rbegin()),((v).rend())
 #define ll long long
+#define int ll
 #define sz(s) (int)(s.size())
 int dx[] = {0, 1, 0, -1};
 int dy[] = {1, 0, -1, 0};

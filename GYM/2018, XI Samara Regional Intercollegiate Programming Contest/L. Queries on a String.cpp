@@ -1,7 +1,7 @@
 /*
    Author : Abdelrahman Hussein
    Codeforces Handle  : [ProAbdo](https://codeforces.com/profile/ProAbdo)
-   Link To problem : https://codeforces.com/gym/101755/problem/J
+   Link To problem : https://codeforces.com/gym/101755/problem/L
 */
 
 

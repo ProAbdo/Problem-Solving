@@ -1,3 +1,8 @@
+/*
+   Author : Abdelrahman Hussein
+   Codeforces Handle  : [ProAbdo](https://codeforces.com/profile/ProAbdo)
+   Link To problem : https://codeforces.com/gym/101755/problem/C
+*/
 #include <bits/stdc++.h>
 using namespace std;
 #define Case int t;cin>>t;while(t--)

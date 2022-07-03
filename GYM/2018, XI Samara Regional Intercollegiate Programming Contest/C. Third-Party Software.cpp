@@ -4,12 +4,18 @@
    Link To problem : https://codeforces.com/gym/101755/problem/C
 */
 #include <bits/stdc++.h>
+
 using namespace std;
 #define Case int t;cin>>t;while(t--)
 #define sz(s) (int)(s.size())
-#define all(v) ((v).begin()),((v).end())
 #define RunFaster ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
+#define all(v) ((v).begin()),((v).end())
+#define rall(v) ((v).rbegin()),((v).rend())
+#define ll long long
 #define int ll
+#define sz(s) (int)(s.size())
+int const N = 1e5 + 7, NN = 105;
+int const OO = 1e8;
 
 void solve() {
     int n;

@@ -4,7 +4,6 @@
    Link To problem : https://codeforces.com/gym/101755/problem/E
 */
 
-
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -16,6 +15,8 @@ using namespace std;
 #define ll long long
 #define int ll
 #define sz(s) (int)(s.size())
+int const N = 1e5 + 7, NN = 105;
+int const OO = 1e8;
 
 void solve() {
     string s, t;

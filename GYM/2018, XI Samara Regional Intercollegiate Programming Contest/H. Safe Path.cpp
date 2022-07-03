@@ -7,6 +7,8 @@
 
 #include <bits/stdc++.h>
 
+#include <bits/stdc++.h>
+
 using namespace std;
 #define Case int t;cin>>t;while(t--)
 #define sz(s) (int)(s.size())
@@ -16,6 +18,8 @@ using namespace std;
 #define ll long long
 #define int ll
 #define sz(s) (int)(s.size())
+int const N = 1e5 + 7, NN = 105;
+int const OO = 1e8;
 int dx[] = {0, 1, 0, -1};
 int dy[] = {1, 0, -1, 0};
 int n, m, d;
